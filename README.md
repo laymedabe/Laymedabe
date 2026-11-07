@@ -89,7 +89,7 @@ Also: FlutterFlow, Webflow, WordPress, Canva, Claris FileMaker
 ## Let's Connect
 
 - GitHub: [@Laymedabe](https://github.com/Laymedabe)
-- LinkedIn: _add your link here_
-- Email: _add your email here_
+- LinkedIn: https://www.linkedin.com/in/lemmueldave-danosos/
+- Email: davedlemmuel@gmail.com
 
 <p align="center"><i>Learning by building, and documenting along the way.</i></p>
